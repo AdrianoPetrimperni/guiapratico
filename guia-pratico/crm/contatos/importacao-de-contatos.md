@@ -1,3 +1,7 @@
+---
+icon: users-medical
+---
+
 # Importação de Contatos
 
 A funcionalidade de **importação de contatos** na Táime Pro permite integrar informações de outras fontes diretamente na plataforma, como **nome, e-mail, telefone, etiquetas** e **campos personalizados**, desde que os dados estejam organizados de forma adequada. É importante que **cada tipo de dado esteja em uma coluna separada** no arquivo de origem, garantindo que a importação seja precisa e eficiente.

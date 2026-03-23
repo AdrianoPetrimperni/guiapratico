@@ -1,3 +1,7 @@
+---
+icon: user-magnifying-glass
+---
+
 # Pesquisar contato
 
 **Realizar pesquisas de contatos de forma rápida e eficiente é essencial** para garantir uma **gestão eficaz de clientes** na plataforma **Táime Pro** Este guia oferece **instruções claras e diretas** para ajudá-lo a encontrar contatos facilmente, permitindo **acesso imediato** às informações necessárias para suas **interações e tomadas de decisão**.

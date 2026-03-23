@@ -71,7 +71,6 @@ São dois tipos de botões, **Resposta rápida** e **Abrir página**. O botão d
 
 * O tempo de aprovação do modelo de mensagem é definido pela META. Contas mais novas e com menor taxa de feedback tendem a demorar mais para ter seus modelos aprovados, enquanto contas mais antigas com maior taxa de feedback geralmente têm um processo de aprovação mais rápido. Existem muitas outras variáveis que também influenciam esse resultado.
 *   O status dos modelos de mensgens são enviados na barra de notificações da plataforma, conforme na imagem abaixo.\
-    \
-
+    <br>
 
     <figure><img src="../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>

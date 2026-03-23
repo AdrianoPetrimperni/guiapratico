@@ -1,3 +1,7 @@
+---
+icon: user-pen
+---
+
 # Ver / Alterar dados de contato
 
 Manter os **dados de contato** atualizados e acessíveis é crucial para uma gestão eficiente de relacionamentos na plataforma **Táime Pro**. Este guia fornecerá instruções detalhadas sobre como **visualizar** e **alterar** as informações dos contatos, assegurando que todos os dados relevantes estejam sempre corretos e atualizados.

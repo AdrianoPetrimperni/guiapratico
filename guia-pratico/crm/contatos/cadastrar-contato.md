@@ -1,3 +1,7 @@
+---
+icon: user-plus
+---
+
 # Cadastrar contato
 
 O cadastro de contatos é essencial para uma gestão eficiente de clientes e relacionamentos na plataforma **Táime Pro**. Ele permite organizar e centralizar informações importantes, otimizando o acompanhamento e as interações. Este guia oferece instruções claras para realizar o cadastro de contatos, garantindo que **todas as informações essenciais** sejam registradas de forma **correta e eficiente**, contribuindo para uma gestão mais estratégica e produtiva.

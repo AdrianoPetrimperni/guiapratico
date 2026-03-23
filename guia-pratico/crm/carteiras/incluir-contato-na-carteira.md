@@ -1,3 +1,7 @@
+---
+icon: users-rectangle
+---
+
 # Incluir contato na carteira
 
 A inclusão de contatos em uma carteira na plataforma **Táime Pro** é uma maneira eficiente de organizar e gerenciar seus relacionamentos comerciais. Isso permite que você segmente e acompanhe suas interações com contatos específicos de forma estruturada, facilitando a execução de estratégias de comunicação e vendas.

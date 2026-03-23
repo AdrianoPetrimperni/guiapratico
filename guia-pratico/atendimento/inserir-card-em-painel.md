@@ -1,3 +1,7 @@
+---
+icon: address-card
+---
+
 # Inserir card em painel
 
 O painel da **Táime Pro** é uma ferramenta poderosa que permite gerenciar e visualizar informações de maneira organizada e eficiente. Uma das funcionalidades mais úteis é a capacidade de inserir **cards** no painel, que podem ser usados para destacar informações importantes, tarefas, métricas, entre outros. Este artigo guiará você passo a passo no processo de inserção de um **card** no painel diretamente de um atendimento.

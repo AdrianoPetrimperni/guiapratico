@@ -1,3 +1,7 @@
+---
+icon: pen-to-square
+---
+
 # Alterar ou excluir uma carteira
 
 Gerenciar carteiras de contatos na **Táime Pro** inclui a capacidade de alterar ou excluir carteiras conforme necessário. Este processo é importante para manter a organização e garantir que as informações de contatos sejam sempre precisas e relevantes. Este guia irá explicar como realizar essas alterações de forma eficiente.

@@ -1,3 +1,7 @@
+---
+icon: user-slash
+---
+
 # Bloquear ou Arquivar contato
 
 **Gerenciar contatos** de maneira eficiente inclui a possibilidade de **bloquear** ou **arquivar** contatos que não são mais ativos ou relevantes. A plataforma da **Táime Pro** oferece funcionalidades que permitem bloquear ou arquivar contatos, garantindo uma organização adequada do seu banco de dados. Este guia irá detalhar como realizar esses processos.

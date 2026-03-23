@@ -1,3 +1,7 @@
+---
+icon: rectangle-history-circle-plus
+---
+
 # Tipos de carteiras
 
 A carteirização na plataforma Táime Pro é uma ferramenta poderosa que centraliza e automatiza o atendimento ao cliente. Com ela, é possível melhorar a gestão de relacionamentos, aumentar a eficiência operacional e garantir conformidade e segurança nas comunicações por meio da integração com a **API oficial do WhatsApp**.
